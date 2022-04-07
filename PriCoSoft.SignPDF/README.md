@@ -1,2 +1,2 @@
 # PDFSign
-Assembly version with some optimations and LTV enabling
+Assembly version with some optimizations and LTV support
