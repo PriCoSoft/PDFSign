@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PriCoSoft.SignPDF", "PriCoSoft.SignPDF.csproj", "{BE4FABF7-5B77-4C16-9314-BEC3F765EED9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignPDF.Console", "..\SignPDF.Console\SignPDF.Console.csproj", "{59540752-6671-45E1-8637-3DE158674135}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE4FABF7-5B77-4C16-9314-BEC3F765EED9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE4FABF7-5B77-4C16-9314-BEC3F765EED9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE4FABF7-5B77-4C16-9314-BEC3F765EED9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE4FABF7-5B77-4C16-9314-BEC3F765EED9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59540752-6671-45E1-8637-3DE158674135}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59540752-6671-45E1-8637-3DE158674135}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59540752-6671-45E1-8637-3DE158674135}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59540752-6671-45E1-8637-3DE158674135}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6985797D-DE9F-4770-9567-9AF557A4FB7B}
+	EndGlobalSection
+EndGlobal
